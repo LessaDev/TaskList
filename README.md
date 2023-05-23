@@ -1,20 +1,16 @@
-# create-svelte
+# Clone project
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+Depois de clonar o projeto para seu local
 
 ## Creating a project
 
-If you're seeing this, you've probably already done this step. Congrats!
+rode o comando  para instalar as dependências
 
 ```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
+npm install
 ```
 
-## Developing
+# Developing
 
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
 
